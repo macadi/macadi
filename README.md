@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macadi
 - I'm a researcher at Instituto de Astronomia, UNAM
-- 👀 I’m interested in Astrophysics of galaxies, big extragalactic surveys, Active Galactic Nuclei.
+- 👀 I’m interested in Astrophysics of galaxies, big extragalactic surveys, Active Galactic Nuclei, dwarf galaxies and high z galaxies.
 
 <!---
 macadi/macadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
